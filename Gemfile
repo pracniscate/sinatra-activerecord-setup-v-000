@@ -15,7 +15,7 @@ group :development do
 	gem 'tux' # preloads DB & AR relationships
 	gem 'sqlite3'
 end
-    
+
 group :test do
   gem 'rspec'
   gem 'capybara'
